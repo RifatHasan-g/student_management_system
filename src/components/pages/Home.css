@@ -1,0 +1,149 @@
+.style-table {
+  border-collapse: collapse;
+  margin: auto;
+  font-size: 0.9em;
+  font-family: "Roboto", sans-serif;
+  max-width: 800px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.style-table thead tr {
+  background-color: #080707;
+  color: #fff;
+  text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+  padding: 12px 15px;
+}
+
+.styled-table tbody tr {
+  border-bottom: 1px solid rgb(254, 237, 0);
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+  background-color: #6d756d;
+}
+
+.btn {
+  background-color: #080707;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.btn-edit {
+  background-color: #44c33b;
+  color: rgb(255, 255, 255);
+  border: 1px solid #000000;
+  border-radius: 5px;
+  padding: 7px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.btn-delete {
+  background-color: #ff0000;
+  color: rgb(255, 255, 255);
+  border: 1px solid #000000;
+  border-radius: 5px;
+  padding: 7px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.btn-view {
+  background-color: #3b6dc3;
+  color: rgb(255, 255, 255);
+  border: 1px solid #000000;
+  border-radius: 5px;
+  padding: 7px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.btn-contact {
+  background-color: #080707;
+  color: rgb(87, 208, 62);
+  border: none;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.bg-color {
+  background-color: rgb(255, 183, 0);
+  border: 11px solid #292a2b;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  box-sizing: border-box;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.t-body {
+  background-color: #ffffff;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.btn-student {
+  background-color: #40aa91;
+  color: rgb(255, 255, 255);
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.home {
+  display: inline-block;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: #ffffff;
+
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+
+  text-align: center;
+  text-decoration: none;
+
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  color: #080707;
+}

@@ -1,0 +1,27 @@
+.card {
+  width: 30%;
+  margin: 0 auto;
+  background-color: #fff;
+  border-radius: 2px;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+  /* margin-bottom: 20px; */
+  padding: 20px;
+}
+
+.card-header {
+  height: 30%;
+  border-bottom: 1px solid #e6e6e6;
+  background: rgba(0, 0, 0, 0.1);
+  color: #fff;
+
+  padding: 10px;
+}
+
+.card-header p {
+  margin: 0;
+  font-size: 14px;
+}
+
+.container {
+  padding: 4px 16px;
+}

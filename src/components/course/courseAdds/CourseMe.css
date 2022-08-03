@@ -1,0 +1,49 @@
+.CourseInput {
+  background-color: whitesmoke;
+  border: 4px solid rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  padding: 15px 32px;
+  display: inline-block;
+  border-radius: 10px;
+  margin-top: 80px;
+}
+/* .CourseInput {
+  width: 100%;
+  height: 100%;
+  border: none;
+  outline: none;
+  color: #fff;
+  background-color: rgb(231, 162, 162);
+  padding: 0.5em;
+  border: 6px solid rgb(21, 0, 255);
+  border-radius: 5px;
+} */
+
+.btn-form-control {
+  background-color: #24a0ed;
+  color: rgb(255, 255, 255);
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 6px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 3px;
+  cursor: pointer;
+}
+
+/* button point */
+.btn-course {
+  background-color: #40aa91;
+  color: rgb(255, 255, 255);
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 6px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 3px;
+  cursor: pointer;
+}
