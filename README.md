@@ -1,6 +1,12 @@
+<h2>Project Picture</h2>
 <img src="https://github.com/SafiHasan-Rifat/student_management_system_CURD/blob/main/picture/Screenshot%202022-08-03%20232732.png" width="50%" height="50%">
-
-
+<img src="https://github.com/SafiHasan-Rifat/student_management_system_CURD/blob/main/picture/Screenshot%202022-08-03%20232826.png" width="50%" height="50%">
+<img src="https://github.com/SafiHasan-Rifat/student_management_system_CURD/blob/main/picture/Screenshot%202022-08-03%20232915.png" width="50%" height="50%">
+<img src="https://github.com/SafiHasan-Rifat/student_management_system_CURD/blob/main/picture/Screenshot%202022-08-03%20232951.png" width="50%" height="50%">
+<img src="https://github.com/SafiHasan-Rifat/student_management_system_CURD/blob/main/picture/Screenshot%202022-08-03%20233027.png" width="50%" height="50%">
+<img src="https://github.com/SafiHasan-Rifat/student_management_system_CURD/blob/main/picture/Screenshot%202022-08-03%20233110.png" width="50%" height="50%">
+<img src="https://github.com/SafiHasan-Rifat/student_management_system_CURD/blob/main/picture/Screenshot%202022-08-03%20233133.png" width="50%" height="50%">
+<img src="https://github.com/SafiHasan-Rifat/student_management_system_CURD/blob/main/picture/screencapture-localhost-3000-inner-2022-08-03-23_35_59.png" width="50%" height="50%">
 
 # Getting Started with Create React App
 
