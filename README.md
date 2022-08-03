@@ -1,3 +1,7 @@
+<img src="https://github.com/SafiHasan-Rifat/student_management_system_CURD/blob/main/picture/Screenshot%202022-08-03%20232732.png" width="50%" height="50%">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
